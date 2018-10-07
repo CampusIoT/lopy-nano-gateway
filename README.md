@@ -20,3 +20,6 @@ CURRENT_SHORT_COMMIT=$(git rev-parse --short HEAD)
 echo $CURRENT_SHORT_COMMIT
 c88fd9b
 ```
+
+## Licence
+TODO
