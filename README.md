@@ -4,6 +4,12 @@ Adapted from https://docs.pycom.io/tutorials/lora/lorawan-nano-gateway
 https://github.com/pycom/pycom-libraries.git
 (examples/lorawan-nano-gateway/)
 
+## Added
+* LED blink while connecting to Wifi SSID network.
+* LED blink while connecting to NTP server for setting time.
+* LED blink while receiving a LoRa frame.
+
+
 ## Setup
 * set SERVER and PORT into config.py
 * set WIFI_SSID and WIFI_PASS into config.py
@@ -11,7 +17,6 @@ https://github.com/pycom/pycom-libraries.git
 
 ## Installation
 TBD
-
 
 ## Version
 
