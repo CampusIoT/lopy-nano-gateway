@@ -22,4 +22,5 @@ c88fd9b
 ```
 
 ## Licence
-TODO
+Pycom Licence v2.2 
+https://github.com/pycom/pycom-libraries/blob/master/license/Pycom%20Licences%20v2.2.pdf
