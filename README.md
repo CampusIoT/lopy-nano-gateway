@@ -26,6 +26,9 @@ echo $CURRENT_SHORT_COMMIT
 c88fd9b
 ```
 
+## TODOLIST
+[ ] add GPS position of the gateway when the LoPy is on a PyTrack board (see https://github.com/brocaar/pycom-examples/tree/master/pytrack-example)
+
 ## Licence
 Pycom Licence v2.2 
 https://github.com/pycom/pycom-libraries/blob/master/license/Pycom%20Licences%20v2.2.pdf
