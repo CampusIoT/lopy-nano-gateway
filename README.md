@@ -28,6 +28,7 @@ c88fd9b
 
 ## TODOLIST
 [ ] add GPS position of the gateway when the LoPy is on a PyTrack board (see https://github.com/brocaar/pycom-examples/tree/master/pytrack-example)
+[ ] add MQTT/TLS (port 8883) with the lora.campusiot.imag.fr.
 
 ## Licence
 Pycom Licence v2.2 
