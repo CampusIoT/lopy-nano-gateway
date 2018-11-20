@@ -7,16 +7,14 @@ WIFI_MAC = ubinascii.hexlify(machine.unique_id()).upper()
 # Set  the Gateway ID to be the first 3 bytes of MAC address + 'FFFE' + last 3 bytes of MAC address
 GATEWAY_ID = WIFI_MAC[:6] + "FFFE" + WIFI_MAC[6:12]
 
-
-#SERVER = '192.168.0.201'
-SERVER = 'loraserver.local'
+SERVER = 'lora.campusiot.imag.fr'
 PORT = 1700
 
 NTP = "pool.ntp.org"
 NTP_PERIOD_S = 3600
 
 WIFI_SSID = 'campusiot'
-WIFI_PASS = 'XxXxXxXxXxXx_CHAMGE_ME'
+WIFI_PASS = 'XxXxXxXxXxXx_CHANGE_ME'
 
 # for EU868
 LORA_FREQUENCY = 868300000
